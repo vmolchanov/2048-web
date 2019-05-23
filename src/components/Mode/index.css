@@ -1,0 +1,31 @@
+.Mode__buttons-list {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 0;
+    margin-top: 30px;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+.Mode__buttons-item {
+
+}
+
+.Mode__button {
+    display: block;
+    min-width: 250px;
+    padding: 10px 40px;
+    font-size: 28px;
+    text-align: center;
+    line-height: 28px;
+    color: white;
+    border-radius: 5px;
+}
+
+.Mode__button_color_orange {
+    background-color: #ff8f56;
+}
+
+.Mode__button_color_brown {
+    background-color: #9c776b;
+}
