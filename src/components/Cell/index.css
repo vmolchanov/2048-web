@@ -1,0 +1,78 @@
+.Cell {
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+}
+
+.Cell--0 {
+    background-color: #d8cec4;
+}
+
+.Cell--2 {
+    background-color: #f0e4d9;
+}
+
+.Cell--4 {
+    background-color: #eee1c7;
+}
+
+.Cell--8 {
+    background-color: #fdaf70;
+}
+
+.Cell--16 {
+    background-color: #ff8f56;
+}
+
+.Cell--32 {
+    background-color: #ff7050;
+}
+
+.Cell--64 {
+    background-color: #ff4612;
+}
+
+.Cell--128 {
+    background-color: #f1d268;
+}
+
+.Cell--256 {
+    background-color: #f1d056;
+}
+
+.Cell--512 {
+    background-color: #f0cb41;
+}
+
+.Cell--1024 {
+    background-color: #f2c927;
+}
+
+.Cell--2048 {
+    background-color: #f3c500;
+}
+
+.Cell--4096 {
+    background-color: #ff504b;
+}
+
+.Cell--8192 {
+    background-color: #ff224b;
+}
+
+.Cell--16384 {
+    background-color: #f8131e;
+}
+
+.Cell--32768 {
+    background-color: #60b2db;
+}
+
+.Cell--65536 {
+    background-color: #539ae5;
+}
+
+.Cell--131072 {
+    background-color: #0076c1;
+}

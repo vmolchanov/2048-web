@@ -1,10 +1,13 @@
+import './index.css';
 import React from 'react';
 
 function Cell(props) {
     const {value} = props;
+    const className = `Cell Cell--${value}`
+
     return (
-        <div className='Cell'>
-            <span className='Cell__value'>{value}</span>
+        <div className={className}>
+            {value}
         </div>
     );
 }
