@@ -1,0 +1,22 @@
+.Score {
+    display: flex;
+    min-width: 150px;
+    padding: 5px 10px;
+    flex-direction: column;
+    background-color: var(--score-color);
+    border-radius: 5px;
+}
+
+.Score__label {
+    font-size: 22px;
+    text-align: center;
+    text-transform: uppercase;
+    color: var(--light-text-color);
+    opacity: 0.3;
+}
+
+.Score__value {
+    font-size: 28px;
+    text-align: center;
+    color: var(--light-text-color);
+}
